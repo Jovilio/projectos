@@ -1,0 +1,79 @@
+@media (max-width:320px) {
+    /* .dedo {
+        position: fixed;
+    } */
+
+    .sobre {
+        position: absolute;
+        top: 90px;
+        left: 5%;
+        padding: 20px;
+        width: 90%;
+
+    }
+
+    .caminhos {
+        width: 100%;
+        margin-top: 105px;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .equipa {
+        padding: 40px 20px;
+    }
+
+}
+
+
+@media (max-width:375px) {
+
+    .caminhos {
+        width: 100%;
+        margin-top: 105px;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+      
+    }
+
+    .sobre {
+        position: absolute;
+        top: 90px;
+        left: 5%;
+        padding: 20px;
+        width: 90%;
+
+    }
+
+    .equipa {
+        padding: 40px 20px;
+    }
+}
+
+@media (max-width:425px) {
+ 
+    .caminhos {
+        width: 100%;
+        margin-top: 105px;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+      
+    }
+
+    .sobre {
+        position: absolute;
+        top: 90px;
+        left: 5%;
+        padding: 20px;
+        width: 90%;
+
+    }
+
+    .equipa {
+        padding: 40px 20px;
+    }
+}
